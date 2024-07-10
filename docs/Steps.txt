@@ -1,1 +1,37 @@
-Here is a description of the logic used while developing the tool.
+Completed Steps:
+Data Loading:
+
+Loaded sales_train_validation, calendar, and sell_prices datasets.
+Data Transformation:
+
+Melted the sales data into a long format.
+Merged sales data with calendar and sell_prices datasets.
+Feature Engineering:
+
+Created date-related features (day, weekday, month, year).
+Created rolling window features for sales data (rolling mean and std for 7 and 30 days).
+Handled missing values in event columns and sell_price.
+Applied one-hot encoding to categorical features (event types).
+Model Training:
+
+Defined a function to train a RandomForest model for each department.
+Evaluated the model using Mean Squared Error (MSE) and Mean Absolute Error (MAE).
+Plotted feature importance.
+
+Key Notes >>>Selection of features.
+
+The following features had strong correlation with sales and therefore were appropriate for selection to be included in the analysis.
+The analysis leading up to this decision can be found in the notes .ref data_exploration.
+
+1. rolling_mean_7
+2. rolling_std_7
+3. rolling _mean_30
+4. rolling _std_30
+5. sell_price.
+6. wm_yr_wk.
+7. wday.
+
+Likely challenges >>> system is running out of memory while performing the
+one-hot encoding on the entire dataset. For the reason we shall abandon the 
+
+
