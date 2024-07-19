@@ -20,7 +20,7 @@ Plotted feature importance.
 
 Key Notes >>>Selection of features.
 
-The following features had strong correlation with sales and therefore were appropriate for selection to be included in the analysis.
+These features had strong correlation with sales were thus most appropriate for selection to be included in the analysis.
 The analysis leading up to this decision can be found in the notes .ref data_exploration.
 
 1. rolling_mean_7
@@ -31,7 +31,7 @@ The analysis leading up to this decision can be found in the notes .ref data_exp
 6. wm_yr_wk.
 7. wday.
 
-Likely challenges >>> system is running out of memory while performing the
-one-hot encoding on the entire dataset. For the reason we shall abandon the 
+Likely challenges >>> system running out of memory while performing the one-hot encoding.
+ Response > We shall abandon One hot encoding for this reason.
 
 
