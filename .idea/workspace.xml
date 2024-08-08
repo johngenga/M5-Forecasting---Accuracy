@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ed7e99-2ba9-47be-85dd-c5e0e43b77fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/data_exploration_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_script_build-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_script_build_id-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/script_build-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/data_script_build.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/script_build.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_exploration_v3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data_exploration.ipynb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data_exploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data_exploration_v3.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +54,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/M5 Forecasting - Accuracy/notebooks/data_exploration.ipynb.ipynb"
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/M5 Forecasting - Accuracy"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\M5 Forecasting - Accuracy\notebooks" />
       <recent name="C:\Users\User\PycharmProjects\M5 Forecasting - Accuracy\scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
